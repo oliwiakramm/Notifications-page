@@ -331,7 +331,7 @@ body {
   .notifications__container {
     max-width: 45.6rem;
     padding: 2.4rem 1.95rem 0.2rem 1.95rem;
-    margin: 1.05rem 0 2rem;
+    margin: 4rem 0 2rem;
   }
 
   .notifications__top {
@@ -397,4 +397,8 @@ body {
     margin-top: -5px;
     margin-left: -3px;
   }
+}
+
+footer {
+  margin: 2rem 0;
 }
